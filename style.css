@@ -1,0 +1,32 @@
+
+
+.box1{
+    width: 50%;
+    border: black solid;
+    background-color: red;
+    margin: 3px;
+
+}
+
+.box2{
+    width: 100px;
+    border:black solid;
+    background-color: red;
+    margin: 3px;
+}
+.parent{
+    width: 150px;
+    border: black solid;
+}
+.p1{
+    font-size:200%;
+    color: blueviolet;
+
+
+}
+.p2{
+    font-size: 32px;
+    color: brown;
+}
+
+
